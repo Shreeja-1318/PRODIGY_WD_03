@@ -1,4 +1,3 @@
-# PRODIGY_WD_03
 
 Welcome to the Tic-Tac-Toe Web Application! This is a simple, interactive game built using HTML, CSS, and JavaScript. It allows two players to play Tic-Tac-Toe against each other in a browser environment. Here's a brief overview of the application, its features, and how to use it.
 
