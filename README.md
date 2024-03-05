@@ -14,6 +14,9 @@ How to Use
 6. If the game results in a draw, the application will notify you.
 7. To start a new game, click the "Restart Game" button.
 
+
 task3.html - This file contains the structure and content of the web page.
+
 task3.css - This file contains the styling and layout of the web page.
+
 task3.js - This file contains the JavaScript code that defines the behavior of the stopwatch.
