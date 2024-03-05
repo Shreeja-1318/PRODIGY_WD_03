@@ -14,6 +14,6 @@ How to Use
 6. If the game results in a draw, the application will notify you.
 7. To start a new game, click the "Restart Game" button.
 
-   HTML: For structuring the web page and defining the game board.
-   CSS: For styling the game board and cells.
-   JavaScript: For handling user clicks, tracking game state, and checking for winning conditions.
+task3.html - This file contains the structure and content of the web page.
+task3.css - This file contains the styling and layout of the web page.
+task3.js - This file contains the JavaScript code that defines the behavior of the stopwatch.
